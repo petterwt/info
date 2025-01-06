@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Exercise #2c: Bootstrap Grid Spacing</title>
+    <!-- Bootstrap CSS to get their styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <style>
+        .item {height: 60px; }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <!-- here are the colored box; add margin or padding -->
+    <div class="row">
+        <div class="col-sm">
+            <div class="item bg-primary"></div>
+        </div>
+        <div class="col-sm">
+            <div class="item bg-info"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md">
+            <div class="item bg-warning"></div>
+        </div>
+        <div class="col-md">
+            <div class="item bg-danger"></div>
+        </div>
+        <div class="col-md">
+            <div class="item bg-warning"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="d-sm-block d-none col">
+            <div class="item bg-success"></div>
+        </div>
+        <div class="d-md-block d-none col-4">
+            <div class="item bg-primary"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="item bg-secondary"></div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
