@@ -2,7 +2,7 @@
 This repository is for the 2025 spring edition of the DAT310 Web programming course at the University of Stavanger. 
 
   - **Intro**: 
-  - [Exam project](exam/examproject.md)
+  - [Exam project](exam/examinfo.md)
   - Introduction [slides](slides/WebProgramming-Course_info.pdf)
   - Introduction [video](https://youtu.be/Vnt1MH8uEc4)
   - [how to hand in assignments on GitHub](quickfeed.md)
