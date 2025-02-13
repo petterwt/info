@@ -46,3 +46,6 @@ SELECT * FROM employee;
   
 * Refresh the page, this should remove everything.
 Now create the tables again, but include a column in the `department` table, that shows the `employeeId` of a deparment manager.
+
+## Exercise #3: Learn to use VSCode SQLite 
+Go to https://www.youtube.com/watch?v=IBgWKTaG_Bs&pp=ygUJI215c3FsaXRl to learn about SLQLite on VSCode.
