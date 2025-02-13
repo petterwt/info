@@ -41,9 +41,10 @@ SELECT * FROM employee;
 ## Exercise #2: Try it DB - INSERT
 
 * Insert a new employee into the database.
-* Write an update to change the department of employee `Ida` to `2`.
+* Write an update to change the department of employee `Bjørn` to `2`.
 * `DELETE` employee `Tom`.
-  
+* `UPDATE` the salary of all employees in department `0` with 5%.  
+
 * Refresh the page, this should remove everything.
 Now create the tables again, but include a column in the `department` table, that shows the `employeeId` of a deparment manager.
 
